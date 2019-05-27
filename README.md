@@ -3,7 +3,7 @@ Guys, I created a page to punitor the products that have this problem.
 </p><p>
 What's the downside: A public page will be created with all the products of your ecommerce, I recommend creating a very complex link and disable the indexing of thefts.
 </p><p>
-<b>Let's take the steps:<b>
+<b>Let's take the steps:</b>
 </p><p>
 01- Create a page-checkstock.php with the following code: https://github.com/odirlon/checkstock-error
 </p><p>
